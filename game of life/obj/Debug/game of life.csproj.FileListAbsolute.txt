@@ -1,0 +1,7 @@
+C:\Users\Chitsungo\Desktop\game of life\obj\Debug\game of life.csprojAssemblyReference.cache
+C:\Users\Chitsungo\Desktop\game of life\obj\Debug\game of life.csproj.CoreCompileInputs.cache
+C:\Users\Chitsungo\Desktop\game of life\bin\Debug\game of life.exe.config
+C:\Users\Chitsungo\Desktop\game of life\bin\Debug\game of life.exe
+C:\Users\Chitsungo\Desktop\game of life\bin\Debug\game of life.pdb
+C:\Users\Chitsungo\Desktop\game of life\obj\Debug\game of life.exe
+C:\Users\Chitsungo\Desktop\game of life\obj\Debug\game of life.pdb
